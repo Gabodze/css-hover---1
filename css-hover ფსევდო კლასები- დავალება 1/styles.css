@@ -1,0 +1,89 @@
+@font-face {
+    font-family: 'Inter';
+    src: url(./Inter-Medium.ttf);
+}
+
+
+.button1{
+    width: 115px;
+    height: 36px;
+    border-radius: 10px;
+    background-color: #FFD43A;
+    border: none;
+
+}
+.button1:hover{
+    background-color: #8CFF98;
+}
+
+
+.button2{
+    margin-top: 14px;
+    width: 285px;
+    height: 36px;
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+    border: none;
+}
+.button2:hover{
+    background-color: #D3D3D3;
+    color: #000;
+}
+
+
+.button3{
+    margin-top: 14px;
+    width: 336px;
+    height: 36px;
+    border-radius: 10px;
+    background-color: #B43AFF;
+    color: white;
+    border: none;
+}
+.button3:hover{
+    background-color: #FF3AE0;
+}
+
+.button4{
+    margin-top: 15px;
+    width: 441px;
+    height: 36px;
+    border-radius: 10px;
+    background-color: #E9E9E9;
+    border: none;
+}
+.button4:hover{
+    width: 441px;
+    height: 36px;
+    border-radius: 2px;
+    background-color: #ABABAB;
+    font-family: 'Inter';
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 22px;
+}
+
+
+.button5{
+    margin-top: 15px;
+    width: 559px;
+    height: 36px;
+    border-radius: 10px;
+    background-color: #FFD43A;
+    border: none;
+}
+.button5:hover{
+    width: 588px;
+    height: 58px;
+    border-radius: 30px;
+    background-color: #FFD43A;
+    font-family: 'Inter';
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0em;
+ 
+
+
+}
